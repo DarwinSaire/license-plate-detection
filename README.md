@@ -15,25 +15,18 @@ Automatic license plate detection
     * Dilation
 
 2. Feature extractions
-
    - Local  Binary  Pattern  (LBP)
    - Histogram  of  Oriented  Gradients  (HOG)
    - Scale-Invariant  Feature  Transform  (SIFT)
-
 3. Watershed segmentation
-
    - Plate detection
    - Plate boxing
    - Seeds for segmentation
    - Plate basins
-
 4. Correction of the plate
-
    - Camera calibration, parallelogram approximation
    - Principal Component Analysis (PCA)
-
 5. Characters separation 
-
    - Plate normalization
    - Local plate threshold
    - Plate rotation
@@ -42,7 +35,17 @@ Automatic license plate detection
    - Characters count
    - Getting separate characters
 
-   
+
+
+Place segmentation
+
+<img src="img/place-segmentation.png" alt="segmentation" width="500">
+
+Characters separation
+
+<img src="img/characters-separation.png" alt="segmentation" width="300">
+
+
 
 #### Run the code
 
