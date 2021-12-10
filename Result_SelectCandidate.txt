@@ -1,0 +1,51 @@
+Mean Detection Precision: 0.96
+Mean Jaccard Precision: 0.63
+Total candidates: 1403
+False positives: 418	Proportion: 0.30
+False negatives: 0	Proportion: 0.00
+
+##########################################
+
+True positives: 983	Precision: 0.7021
+Mean Jaccard Precision: 0.6251
+Total candidates: 1403
+False positives: 418	Proportion: 0.2979
+False negatives: 0	Proportion: 0.0000
+
+Sensibilidade: 99.2%
+
+Falsos positivos: (418) 29.7%
+
+##########################################
+
+com gradiente morfologico
+
+Jaccad Segmentattion: 0.9581
+Detection precision: 0.9687	Jaccard precision: 0.7160
+True positives: 979	Precision: 0.9872
+Mean Jaccard Precision: 0.6234
+Jaccard Precision: 0.8962
+Total candidates: 1403
+False positives: 12	Proportion: 0.0086
+False negatives: 6	Proportion: 0.0043
+
+##########################################
+normal
+
+Jaccad Segmentattion: 0.9517
+Detection precision: 0.9687	Jaccard precision: 0.7160
+True positives: 979	Precision: 0.9872
+Mean Jaccard Precision: 0.6234
+Jaccard Precision: 0.9171
+Total candidates: 1403
+False positives: 12	Proportion: 0.0086
+False negatives: 6	Proportion: 0.0043
+
+##########################################
+Detection precision: 0.9687	Jaccard precision: 0.7160
+True positives: 979	Precision: 0.9872
+Mean Jaccard Precision: 0.6234
+Jaccard Precision: 0.9123
+Total candidates: 1403
+False positives: 12	Proportion: 0.0086
+False negatives: 6	Proportion: 0.0043

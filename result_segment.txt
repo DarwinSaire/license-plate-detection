@@ -1,0 +1,15 @@
+HOG
+Detection precision: 0.8355
+True positives: 975	Precision: 0.9974
+Jaccard Precision: 0.9625
+Total candidates: 1138
+False positives: 1	Proportion: 0.0009
+False negatives: 2	Proportion: 0.0018
+
+LBP
+Detection precision: 0.8355
+True positives: 953	Precision: 0.9772
+Jaccard Precision: 0.9428
+Total candidates: 1138
+False positives: 2	Proportion: 0.0018
+False negatives: 24	Proportion: 0.0211
